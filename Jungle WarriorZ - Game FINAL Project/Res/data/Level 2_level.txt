@@ -1,0 +1,21 @@
+image:Res/Images/Head.png:5570:200:1
+image:Res/Images/TreeBackground.png:100:100:2
+image:Res/Images/TreeBackground.png:900:100:2
+image:Res/Images/TreeBackground.png:2000:100:2
+image:Res/Images/TreeBackground.png:3000:0:2
+
+enemy:enemy2:40:4:200
+enemy:enemy1:19:6:128
+enemy:enemy1:32:2:64
+enemy:enemy2:60:4:200
+enemy:enemy1:80:2:200
+enemy:enemy1:5:4:128
+enemy:enemy1:29:3:128
+enemy:enemy1:35:3:128
+enemy:enemy2:55:4:200
+enemy:enemy1:71:2:128
+enemy:enemy1:67:2:128
+enemy:enemy1:75:4:128
+
+goal:5570:200:Level 3
+eof
